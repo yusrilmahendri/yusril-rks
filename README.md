@@ -13,6 +13,9 @@ mohon maaf link tersebut hanya bisa di akses dengan webmail.uad
 disini saya menggunakan faramewok laravel dalam proses mengerjakanya 
 adapun file yang di gunakan dan dimasukan pada foder sebagai berikut: 
 
+di laravel yakni menggunakan view,controller,dan root untuk menampilkan suatu interface adapun hal tersebut sebagai berikut : 
+
+untuk resource view nya di bawah ini : 
 . daftar 
   - signup.blade.php
 
@@ -44,3 +47,9 @@ adapun file yang di gunakan dan dimasukan pada foder sebagai berikut:
   - home.blade.php 
   - kontak.blade.php
 
+untuk controller nya di bawah ini :
+. controllers 
+  - DashboardController.php
+  - ForumController.php
+  - KaryawanController.php
+  - SiteController.php
