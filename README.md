@@ -19,26 +19,30 @@ untuk resource view nya di bawah ini :  <br>
 
 . daftar 
   - signup.blade.php
-
+<br>
 . dashbboard
   - index.blade.php
-
+<br>
 .  diskusi
   - index.blade.php
   - view.blade.php
-
+<br>
 . karyawan
   - index.blade.php
   - edit.blade.php
   - profile.blade.php
+<br>
 . layout
   - frontend.blade.php
   - master.blade.php
+<br>
 . includes 
   - _navbar.blade.php
   - _sidebar.blade.php
+<br>
 .  login
   - sign.blade.php
+<br>
 . sites <br>
   - about.blade.php
   - home.blade.php 
