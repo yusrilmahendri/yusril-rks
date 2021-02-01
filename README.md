@@ -19,11 +19,14 @@ untuk resource view nya di bawah ini :  <br>
 
 . daftar 
   - signup.blade.php
+
 . dashbboard
   - index.blade.php
+
 .  diskusi
   - index.blade.php
   - view.blade.php
+
 . karyawan
   - index.blade.php
   - edit.blade.php
