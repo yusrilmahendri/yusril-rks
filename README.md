@@ -15,8 +15,8 @@ adapun file yang di gunakan dan dimasukan pada foder sebagai berikut:
 
 di laravel yakni menggunakan view,controller,dan root untuk menampilkan suatu interface adapun hal tersebut sebagai berikut : 
 
-untuk resource view nya di bawah ini : <br>
-. daftar 
+untuk resource view nya di bawah ini : 
+. daftar <br>
   - signup.blade.php
 
 . dashbboard
@@ -42,15 +42,19 @@ untuk resource view nya di bawah ini : <br>
 .  login
   - sign.blade.php
   
-. sites
+. sites <br>
   - about.blade.php
   - home.blade.php 
   - kontak.blade.php
 <br>
 
-untuk controller nya di bawah ini :<br>
-. controllers 
+untuk controller nya di bawah ini :
+. controllers <br>
   - DashboardController.php
   - ForumController.php
   - KaryawanController.php
   - SiteController.php
+  
+  <br>
+  untuk route nya yakni di bawah ini :
+  - web.php
