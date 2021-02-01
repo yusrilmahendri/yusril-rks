@@ -17,35 +17,35 @@ di laravel yakni menggunakan view,controller,dan root untuk menampilkan suatu in
 
 untuk resource view nya di bawah ini :  <br>
 
-A daftar 
+A. daftar 
   - signup.blade.php
 
-B dashbboard
+B. dashbboard
   - index.blade.php
 
-C  diskusi
+C.  diskusi
   - index.blade.php
   - view.blade.php
 
-D karyawan
+D. karyawan
   - index.blade.php
   - edit.blade.php
   - profile.blade.php
 
-F layout
+F. layout
   - frontend.blade.php
   - master.blade.php
   
-G includes 
+G. includes 
   - _navbar.blade.php
   - _sidebar.blade.php
 
 
-H  login
+H.  login
   - sign.blade.php
 
 
-I sites <br>
+I. sites <br>
   - about.blade.php
   - home.blade.php 
   - kontak.blade.php
@@ -53,24 +53,24 @@ I sites <br>
 <br>
 untuk controller nya di bawah ini : <br>
 
-J controllers 
+J. controllers 
   - DashboardController.php
   - ForumController.php
   - KaryawanController.php
   - SiteController.php
   
   <br>
- K untuk route nya yakni di bawah ini : <br>
+ K. untuk route nya yakni di bawah ini : <br>
   - web.php
   
   <br>
   <br>
- L untuk gambarnya yakni images <br>
+ L. untuk gambarnya yakni images <br>
    - Images
  
  <br>
  <br>
-  M adapun hasil running aplikasi yakni outputnya sudah saya buatkan dalam bentuk video yakni adapun videonya di bawah ini : 
+  M.  adapun hasil running aplikasi yakni outputnya sudah saya buatkan dalam bentuk video yakni adapun videonya di bawah ini : 
 
  [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/E2lffJgS4iw)
 
