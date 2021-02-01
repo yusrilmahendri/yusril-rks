@@ -17,35 +17,35 @@ di laravel yakni menggunakan view,controller,dan root untuk menampilkan suatu in
 
 untuk resource view nya di bawah ini :  <br>
 
-. daftar 
+A daftar 
   - signup.blade.php
 
-. dashbboard
+B dashbboard
   - index.blade.php
 
-.  diskusi
+C  diskusi
   - index.blade.php
   - view.blade.php
 
-. karyawan
+D karyawan
   - index.blade.php
   - edit.blade.php
   - profile.blade.php
 
-. layout
+F layout
   - frontend.blade.php
   - master.blade.php
   
-. includes 
+G includes 
   - _navbar.blade.php
   - _sidebar.blade.php
 
 
-.  login
+H  login
   - sign.blade.php
 
 
-. sites <br>
+I sites <br>
   - about.blade.php
   - home.blade.php 
   - kontak.blade.php
@@ -53,12 +53,12 @@ untuk resource view nya di bawah ini :  <br>
 <br>
 untuk controller nya di bawah ini : <br>
 
-. controllers 
+J controllers 
   - DashboardController.php
   - ForumController.php
   - KaryawanController.php
   - SiteController.php
   
   <br>
-  untuk route nya yakni di bawah ini : <br>
+ K untuk route nya yakni di bawah ini : <br>
   - web.php
