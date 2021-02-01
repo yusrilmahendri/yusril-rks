@@ -71,9 +71,7 @@ J controllers
  <br>
  <br>
   M adapun hasil running aplikasi yakni outputnya sudah saya buatkan dalam bentuk video yakni adapun videonya di bawah ini : 
-  
-[![Watch the video]](https://youtu.be/T-D1KVIuvjA)  
-  
+
 
  
  
