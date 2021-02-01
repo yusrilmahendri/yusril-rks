@@ -70,7 +70,7 @@ J. controllers
  
  <br>
  <br>
-  M.  adapun hasil running aplikasi yakni outputnya sudah saya buatkan dalam bentuk video yakni adapun videonya di bawah ini : 
+  M.  adapun hasil running aplikasi forum diskusi antar karyawan di suatu intansi yakni outputnya sudah saya buatkan dalam bentuk video di bawah ini : 
 
  [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/E2lffJgS4iw)
 
