@@ -16,32 +16,26 @@ adapun file yang di gunakan dan dimasukan pada foder sebagai berikut:
 di laravel yakni menggunakan view,controller,dan root untuk menampilkan suatu interface adapun hal tersebut sebagai berikut : 
 
 untuk resource view nya di bawah ini :  <br>
-. daftar <br>
-  - signup.blade.php
 
+. daftar 
+  - signup.blade.php
 . dashbboard
   - index.blade.php
-
 .  diskusi
   - index.blade.php
   - view.blade.php
- 
 . karyawan
   - index.blade.php
   - edit.blade.php
   - profile.blade.php
-  
 . layout
   - frontend.blade.php
   - master.blade.php
-  
 . includes 
   - _navbar.blade.php
   - _sidebar.blade.php
-  
 .  login
   - sign.blade.php
-  
 . sites <br>
   - about.blade.php
   - home.blade.php 
