@@ -72,8 +72,10 @@ J controllers
  <br>
   M adapun hasil running aplikasi yakni outputnya sudah saya buatkan dalam bentuk video yakni adapun videonya di bawah ini : 
 
+![](http://damien.pobel.fr/images/youtube-video-github.gif)
 
-https://youtube.com/embed/<VIDEO_ID>
+See also [Embed a Youtube video in Github markdown](http://damien.pobel.fr/post/youtube-video-github/)
+
  
  
  
