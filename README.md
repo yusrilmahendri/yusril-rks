@@ -63,7 +63,8 @@ J controllers
  K untuk route nya yakni di bawah ini : <br>
   - web.php
   
+  
   <br>
- L  untuk gambarnya yakni images 
+ L untuk gambarnya yakni images <br>
    - Images
  
