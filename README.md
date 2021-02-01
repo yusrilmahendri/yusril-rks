@@ -15,7 +15,7 @@ adapun file yang di gunakan dan dimasukan pada foder sebagai berikut:
 
 di laravel yakni menggunakan view,controller,dan root untuk menampilkan suatu interface adapun hal tersebut sebagai berikut : 
 
-untuk resource view nya di bawah ini : 
+untuk resource view nya di bawah ini :  <br>
 . daftar <br>
   - signup.blade.php
 
