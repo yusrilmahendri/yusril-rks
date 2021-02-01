@@ -48,13 +48,13 @@ untuk resource view nya di bawah ini :
   - kontak.blade.php
 <br>
 
-untuk controller nya di bawah ini :
-. controllers <br>
+untuk controller nya di bawah ini : <br>
+. controllers 
   - DashboardController.php
   - ForumController.php
   - KaryawanController.php
   - SiteController.php
   
   <br>
-  untuk route nya yakni di bawah ini :
+  untuk route nya yakni di bawah ini : <br>
   - web.php
