@@ -73,10 +73,7 @@ J controllers
   M adapun hasil running aplikasi yakni outputnya sudah saya buatkan dalam bentuk video yakni adapun videonya di bawah ini : 
 
 
- steps:
-- title: What is GitHub?
-  description: After watching this video, close the first issue in your repository.
-  video: https://youtu.be/E2lffJgS4iw
+https://youtube.com/embed/<VIDEO_ID>
  
  
  
